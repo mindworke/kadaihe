@@ -2,6 +2,12 @@
 
 卡带盒是一款面向 Nintendo Switch 和 Switch 2 实体卡带收藏者的安卓工具。用它记录每张卡带的版本、购入价格和收纳位置，管理借还和心愿单，并核算售出盈亏。
 
+## 界面预览
+
+| 收藏库 | 卡带详情 | 心愿单 |
+| :---: | :---: | :---: |
+| <img src="docs/screenshots/collection.jpg" width="230" alt="收藏库的卡带封面网格和投入统计"> | <img src="docs/screenshots/detail.jpg" width="230" alt="卡带详情的封面背景、购入记录和游玩进度"> | <img src="docs/screenshots/wishlist.jpg" width="230" alt="心愿单的目标价和已购入按钮"> |
+
 ## 主要功能
 
 - **收藏库**支持扫码、游戏中文名联想、手动选图、实拍留存、排序和筛选。
