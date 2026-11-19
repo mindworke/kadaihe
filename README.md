@@ -14,7 +14,9 @@
 
 ## 安装
 
-在 GitHub 的 **Releases** 页面下载 `Kadaihe-2.5-github.apk`。系统要求为 Android 8.0（API 26）或以上。更新签名一致的安装包时，可以直接覆盖安装。ZIP 备份可在「设置与备份」中导出。
+[直接下载安卓 APK（卡带盒 2.5）](https://github.com/mindworke/kadaihe/releases/download/v2.5/Kadaihe-2.5-github.apk)
+
+需要 Android 8.0（API 26）或以上。更新签名一致的安装包时，可以直接覆盖安装。ZIP 备份可在「设置与备份」中导出。
 
 ## 从源码构建
 
