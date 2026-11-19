@@ -1,0 +1,1981 @@
+{
+  "switch-K0000932974": {
+    "title": "塞尔达传说 旷野之息",
+    "aliases": ["薩爾達傳說 曠野之息", "萨尔达传说 旷野之息", "塞尔达传说 荒野之息", "薩爾達傳說 荒野之息", "旷野之息", "曠野之息", "荒野之息"]
+  },
+  "switch2-K0001684232": {
+    "aliasesFrom": "switch-K0000932974",
+    "aliases": ["旷野之息 Switch 2", "曠野之息 Switch 2"]
+  },
+  "switch-K0001165320": {
+    "title": "塞尔达传说 王国之泪",
+    "aliases": ["薩爾達傳說 王國之淚", "萨尔达传说 王国之泪", "王国之泪", "王國之淚"]
+  },
+  "switch2-K0001684231": {
+    "aliasesFrom": "switch-K0001165320",
+    "aliases": ["王国之泪 Switch 2", "王國之淚 Switch 2"]
+  },
+  "switch2-K0001684116": {
+    "title": "马力欧卡丁车 世界",
+    "aliases": ["瑪利歐賽車 世界", "瑪利歐卡丁車 世界", "马里奥赛车世界", "馬里奧賽車世界", "马里奥卡丁车世界", "Mario Kart World"]
+  },
+  "switch2-K0001684230": {
+    "title": "咚奇刚 蕉力全开",
+    "aliases": ["咚奇剛 蕉力全開", "大金刚蕉力全开", "大金剛蕉力全開", "Donkey Kong Bananza"]
+  },
+  "switch-K0001333398": {
+    "title": "斯普拉遁 3",
+    "aliases": ["喷射战士3", "噴射戰士3", "Splatoon 3"]
+  },
+  "switch-K0000932975": {
+    "title": "马力欧卡丁车8 豪华版",
+    "aliases": ["瑪利歐賽車8 豪華版", "马里奥赛车8", "馬里奧賽車8", "马车8", "Mario Kart 8 Deluxe"]
+  },
+  "switch-K0001090396": {
+    "title": "集合啦！动物森友会",
+    "aliases": ["集合啦！動物森友會", "动物森友会", "動物森友會", "动森", "動森", "Animal Crossing New Horizons"]
+  },
+  "switch2-K0001718498": {
+    "aliasesFrom": "switch-K0001090396",
+    "aliases": ["动森 Switch 2", "動森 Switch 2"]
+  },
+  "switch-K0001039549": {
+    "title": "任天堂明星大乱斗 特别版",
+    "aliases": ["任天堂明星大亂鬥 特別版", "任天堂大乱斗", "任天堂大亂鬥", "Super Smash Bros. Ultimate"]
+  },
+  "switch-K0000932976": {
+    "title": "超级马力欧 奥德赛",
+    "aliases": ["超級瑪利歐 奧德賽", "马里奥奥德赛", "馬里奧奧德賽", "Super Mario Odyssey"]
+  },
+  "switch-K0001547125": {
+    "title": "超级马力欧兄弟 惊奇",
+    "aliases": ["超級瑪利歐兄弟 驚奇", "超级马里奥兄弟惊奇", "超级马里奥惊奇", "Super Mario Bros. Wonder"]
+  },
+  "switch2-K0001711319": {
+    "aliasesFrom": "switch-K0001547125",
+    "aliases": ["超级马力欧兄弟 惊奇 Switch 2"]
+  },
+  "switch-K0001387045": {
+    "title": "星之卡比 探索发现",
+    "aliases": ["星之卡比 探索發現", "卡比探索发现", "卡比探索發現", "Kirby and the Forgotten Land"]
+  },
+  "switch2-K0001684237": {
+    "aliasesFrom": "switch-K0001387045",
+    "aliases": ["星之卡比 探索发现 Switch 2"]
+  },
+  "switch-K0001472562": {
+    "title": "皮克敏 4",
+    "aliases": ["Pikmin 4"]
+  },
+  "switch2-K0001803219": {
+    "aliasesFrom": "switch-K0001472562",
+    "aliases": ["皮克敏 4 Switch 2"]
+  },
+  "switch-K0001609125": {
+    "title": "宝可梦传说 Z-A",
+    "aliases": ["寶可夢傳說 Z-A", "宝可梦ZA", "寶可夢ZA", "Pokemon Legends Z-A", "Pokémon Legends Z-A"]
+  },
+  "switch2-K0001684238": {
+    "aliasesFrom": "switch-K0001609125",
+    "aliases": ["宝可梦传说 Z-A Switch 2"]
+  },
+  "switch2-K0001806174": {
+    "title": "宝可梦传说 Z-A + 超次元爆涌",
+    "label": "含追加内容",
+    "aliasesFrom": "switch-K0001609125",
+    "aliases": ["寶可夢傳說 Z-A + 超次元爆湧", "宝可梦ZA DLC版"]
+  },
+  "switch-K0001634610": {
+    "title": "超级马力欧派对 空前盛会",
+    "aliases": ["超級瑪利歐派對 空前盛會", "马里奥派对空前盛会", "Super Mario Party Jamboree"]
+  },
+  "switch2-K0001684235": {
+    "aliasesFrom": "switch-K0001634610",
+    "aliases": ["超级马力欧派对 空前盛会 Switch 2"]
+  },
+  "switch2-K0001687478": {
+    "title": "街头霸王 6",
+    "label": "第 1–2 年斗士版",
+    "aliases": ["街頭霸王 6", "街头霸王6 斗士版", "快打旋風6", "街霸6", "Street Fighter 6"]
+  },
+  "switch2-K0001684111": {
+    "title": "赛博朋克 2077 终极版",
+    "aliases": ["賽博朋克 2077 終極版", "電馭叛客 2077", "赛博朋克2077", "Cyberpunk 2077"]
+  },
+  "switch2-K0001687479": {
+    "title": "双影奇境",
+    "aliases": ["雙影奇境", "Split Fiction"]
+  },
+  "switch-K0001542667": {
+    "title": "霍格沃茨之遗",
+    "aliases": ["霍格華茲的傳承", "霍格沃茨之遺", "Hogwarts Legacy"]
+  },
+  "switch2-K0001689168": {
+    "aliasesFrom": "switch-K0001542667",
+    "aliases": ["霍格沃茨之遗 Switch 2", "霍格華茲的傳承 Switch 2"]
+  },
+  "switch2-K0001702089": {
+    "title": "女神异闻录 3 Reload",
+    "aliases": ["女神異聞錄 3 Reload", "女神异闻录3 重制版", "Persona 3 Reload", "P3R"]
+  },
+  "switch2-K0001711320": {
+    "title": "耀西与不可思议的图鉴",
+    "series": "耀西",
+    "aliases": ["耀西與不可思議的圖鑑", "耀西不可思议的图鉴", "耀西不可思議的圖鑑", "耀西图鉴", "耀西圖鑑", "Yoshi and the Mysterious Book"]
+  },
+  "switch2-K0001788981": {
+    "title": "塞尔达传说 时之笛",
+    "series": "塞尔达传说",
+    "aliases": ["薩爾達傳說 時之笛", "萨尔达传说 时之笛", "时之笛", "時之笛", "时之笛重制版", "時之笛重製版", "时间之笛", "時間之笛", "Ocarina of Time", "Zelda OOT"]
+  },
+  "switch-K0001129827": {
+    "title": "塞尔达传说 织梦岛",
+    "series": "塞尔达传说",
+    "aliases": ["薩爾達傳說 織夢島", "织梦岛", "織夢島", "梦见岛", "夢見島", "Link's Awakening"]
+  },
+  "switch-K0001333397": {
+    "title": "塞尔达传说 御天之剑 HD",
+    "series": "塞尔达传说",
+    "aliases": ["薩爾達傳說 禦天之劍 HD", "御天之剑", "禦天之劍", "天空之剑", "天空之劍", "Skyward Sword HD"]
+  },
+  "switch-K0001634611": {
+    "title": "塞尔达传说 智慧的再现",
+    "series": "塞尔达传说",
+    "aliases": ["薩爾達傳說 智慧的再現", "智慧的再现", "智慧的再現", "智慧再现", "Echoes of Wisdom"]
+  },
+  "switch2-K0001702077": {
+    "title": "塞尔达无双 封印战记",
+    "series": "塞尔达无双",
+    "aliases": ["薩爾達無雙 封印戰記", "封印战记", "封印戰記", "Hyrule Warriors Age of Imprisonment"]
+  },
+  "switch-K0001286793": {
+    "title": "超级马力欧 3D世界 ＋ 狂怒世界",
+    "series": "超级马力欧",
+    "aliases": ["超級瑪利歐 3D世界 ＋ 狂怒世界", "马里奥3D世界", "狂怒世界", "Super Mario 3D World Bowser's Fury"]
+  },
+  "switch-K0001090398": {
+    "title": "新 超级马力欧兄弟 U 豪华版",
+    "series": "超级马力欧",
+    "aliases": ["新 超級瑪利歐兄弟 U 豪華版", "新超级马里奥兄弟U", "马里奥兄弟U豪华版", "New Super Mario Bros U Deluxe"]
+  },
+  "switch-K0001129823": {
+    "title": "超级马力欧 创作家 2",
+    "series": "超级马力欧",
+    "aliases": ["超級瑪利歐 創作家 2", "马里奥制造2", "瑪利歐製造2", "Super Mario Maker 2"]
+  },
+  "switch-K0001062860": {
+    "title": "超级马力欧派对",
+    "series": "马力欧派对",
+    "aliases": ["超級瑪利歐派對", "超级马里奥派对", "Super Mario Party"]
+  },
+  "switch-K0001362398": {
+    "title": "马力欧派对 超级巨星",
+    "series": "马力欧派对",
+    "aliases": ["瑪利歐派對 超級巨星", "马里奥派对超级巨星", "Mario Party Superstars"]
+  },
+  "switch-K0000932977": {
+    "title": "斯普拉遁 2",
+    "series": "斯普拉遁",
+    "aliases": ["喷射战士2", "噴射戰士2", "Splatoon 2"]
+  },
+  "switch-K0001134644": {
+    "title": "宝可梦 剑",
+    "series": "宝可梦",
+    "aliases": ["寶可夢 劍", "精灵宝可梦剑", "Pokemon Sword"]
+  },
+  "switch-K0001134645": {
+    "title": "宝可梦 盾",
+    "series": "宝可梦",
+    "aliases": ["寶可夢 盾", "精灵宝可梦盾", "Pokemon Shield"]
+  },
+  "switch-K0001424279": {
+    "title": "宝可梦 朱",
+    "series": "宝可梦",
+    "aliases": ["寶可夢 朱", "精灵宝可梦朱", "Pokémon Scarlet", "Pokemon Scarlet"]
+  },
+  "switch-K0001424280": {
+    "title": "宝可梦 紫",
+    "series": "宝可梦",
+    "aliases": ["寶可夢 紫", "精灵宝可梦紫", "Pokémon Violet", "Pokemon Violet"]
+  },
+  "switch-K0001576724": {
+    "title": "宝可梦 朱＋零之秘宝",
+    "aliasesFrom": "switch-K0001424279",
+    "label": "含零之秘宝",
+    "series": "宝可梦",
+    "aliases": ["寶可夢 朱＋零之秘寶", "宝可梦朱 零之秘宝", "宝可梦朱 DLC版"]
+  },
+  "switch-K0001576725": {
+    "title": "宝可梦 紫＋零之秘宝",
+    "aliasesFrom": "switch-K0001424280",
+    "label": "含零之秘宝",
+    "series": "宝可梦",
+    "aliases": ["寶可夢 紫＋零之秘寶", "宝可梦紫 零之秘宝", "宝可梦紫 DLC版"]
+  },
+  "switch-K0001335535": {
+    "title": "宝可梦传说 阿尔宙斯",
+    "series": "宝可梦",
+    "aliases": ["寶可夢傳說 阿爾宙斯", "阿尔宙斯", "阿爾宙斯", "Pokemon Legends Arceus"]
+  },
+  "switch-K0001335533": {
+    "title": "宝可梦 晶灿钻石",
+    "series": "宝可梦",
+    "aliases": ["寶可夢 晶燦鑽石", "晶灿钻石", "晶燦鑽石", "Pokemon Brilliant Diamond"]
+  },
+  "switch-K0001335534": {
+    "title": "宝可梦 明亮珍珠",
+    "series": "宝可梦",
+    "aliases": ["寶可夢 明亮珍珠", "明亮珍珠", "Pokemon Shining Pearl"]
+  },
+  "switch-K0001058182": {
+    "title": "宝可梦 Let's Go！皮卡丘",
+    "series": "宝可梦",
+    "aliases": ["寶可夢 Let's Go！皮卡丘", "宝可梦去吧皮卡丘", "Pokémon Let's Go Pikachu", "Pokemon Let's Go Pikachu"]
+  },
+  "switch-K0001058183": {
+    "title": "宝可梦 Let's Go！伊布",
+    "series": "宝可梦",
+    "aliases": ["寶可夢 Let's Go！伊布", "宝可梦去吧伊布", "Pokémon Let's Go Eevee", "Pokemon Let's Go Eevee"]
+  },
+  "switch-K0001266393": {
+    "title": "New 宝可梦随乐拍",
+    "series": "宝可梦",
+    "aliases": ["New 寶可夢隨樂拍", "宝可梦随乐拍", "寶可夢隨樂拍", "New Pokemon Snap"]
+  },
+  "switch-K0001547120": {
+    "title": "归来的名侦探皮卡丘",
+    "series": "宝可梦",
+    "aliases": ["歸來的名偵探皮卡丘", "名侦探皮卡丘归来", "Detective Pikachu Returns"]
+  },
+  "switch-K0000973962": {
+    "title": "星之卡比 新星同盟",
+    "series": "星之卡比",
+    "aliases": ["Kirby Star Allies"]
+  },
+  "switch-K0001472566": {
+    "title": "星之卡比 Wii 豪华版",
+    "series": "星之卡比",
+    "aliases": ["星之卡比 Wii 豪華版", "Kirby's Return to Dream Land Deluxe"]
+  },
+  "switch2-K0001707164": {
+    "title": "星之卡比 飞天骑士",
+    "series": "星之卡比",
+    "aliases": ["星之卡比 飛天騎士", "卡比飞天骑士", "卡比飛天騎士", "Kirby Air Riders"]
+  },
+  "switch-K0001278827": {
+    "title": "皮克敏 3 豪华版",
+    "series": "皮克敏",
+    "aliases": ["皮克敏 3 豪華版", "皮克敏3", "Pikmin 3 Deluxe"]
+  },
+  "switch-K0001547124": {
+    "title": "皮克敏 1＋2",
+    "series": "皮克敏",
+    "aliases": ["皮克敏 1和2", "皮克敏 1 2", "Pikmin 1+2"]
+  },
+  "switch-K0001187540": {
+    "title": "异度神剑 终极版",
+    "series": "异度神剑",
+    "aliases": ["異度神劍 終極版", "异度之刃 终极版", "异度之刃 决定版", "Xenoblade Chronicles Definitive Edition"]
+  },
+  "switch2-K0001789079": {
+    "aliasesFrom": "switch-K0001187540",
+    "series": "异度神剑"
+  },
+  "switch-K0000935047": {
+    "title": "异度神剑 2",
+    "series": "异度神剑",
+    "aliases": ["異度神劍 2", "异度之刃2", "異度之刃2", "Xenoblade Chronicles 2"]
+  },
+  "switch2-K0001789080": {
+    "aliasesFrom": "switch-K0000935047",
+    "series": "异度神剑"
+  },
+  "switch-K0001062934": {
+    "title": "异度神剑 2 黄金之国伊拉",
+    "label": "黄金之国伊拉",
+    "series": "异度神剑",
+    "aliases": ["異度神劍 2 黃金之國伊拉", "黄金之国伊拉", "黄金之国伊拉实体版", "Torna The Golden Country"]
+  },
+  "switch-K0001421297": {
+    "title": "异度神剑 3",
+    "series": "异度神剑",
+    "aliases": ["異度神劍 3", "异度之刃3", "異度之刃3", "Xenoblade Chronicles 3"]
+  },
+  "switch-K0001663047": {
+    "title": "异度神剑 X 终极版",
+    "series": "异度神剑",
+    "aliases": ["異度神劍 X 終極版", "异度之刃 X 终极版", "异度神剑X", "Xenoblade Chronicles X Definitive Edition"]
+  },
+  "switch2-K0001770640": {
+    "aliasesFrom": "switch-K0001663047",
+    "series": "异度神剑"
+  },
+  "switch-K0000936314": {
+    "title": "火焰之纹章 风花雪月",
+    "series": "火焰之纹章",
+    "aliases": ["聖火降魔錄 風花雪月", "火焰之紋章 風花雪月", "火纹风花雪月", "风花雪月", "Fire Emblem Three Houses"]
+  },
+  "switch-K0001421285": {
+    "title": "火焰之纹章无双 风花雪月",
+    "series": "火焰之纹章",
+    "aliases": ["聖火降魔錄無雙 風花雪月", "火焰之紋章無雙 風花雪月", "风花雪月无双", "Fire Emblem Warriors Three Hopes"]
+  },
+  "switch2-K0001711327": {
+    "title": "火焰之纹章 万紫千红",
+    "series": "火焰之纹章",
+    "aliases": ["聖火降魔錄 萬紫千紅", "火焰之紋章 萬紫千紅", "火纹万紫千红", "万紫千红", "Fire Emblem Fortune's Weave"]
+  },
+  "switch-K0001568928": {
+    "title": "路易吉洋馆 2 HD",
+    "series": "路易吉洋馆",
+    "aliases": ["路易吉洋館 2 HD", "路易吉鬼屋2", "路易吉洋馆2", "Luigi's Mansion 2 HD"]
+  },
+  "switch-K0001090397": {
+    "title": "路易吉洋馆 3",
+    "series": "路易吉洋馆",
+    "aliases": ["路易吉洋館 3", "路易吉鬼屋3", "Luigi's Mansion 3"]
+  },
+  "switch-K0001515154": {
+    "title": "密特罗德 究极 复刻版",
+    "series": "密特罗德",
+    "aliases": ["密特羅德 究極 復刻版", "银河战士 Prime 复刻版", "银河战士究极复刻版", "Metroid Prime Remastered"]
+  },
+  "switch-K0001634613": {
+    "title": "密特罗德 究极 4 穿越未知",
+    "series": "密特罗德",
+    "aliases": ["密特羅德 究極 4 穿越未知", "银河战士Prime4", "银河战士4 穿越未知", "Metroid Prime 4 Beyond"]
+  },
+  "switch-K0001257441": {
+    "title": "纸片马力欧 折纸国王",
+    "series": "纸片马力欧",
+    "aliases": ["紙片瑪利歐 摺紙國王", "纸片马里奥折纸国王", "折纸国王", "Paper Mario The Origami King"]
+  },
+  "switch-K0001568926": {
+    "title": "纸片马力欧 千年之门",
+    "series": "纸片马力欧",
+    "aliases": ["紙片瑪利歐 千年之門", "纸片马里奥千年之门", "千年之门", "Paper Mario The Thousand-Year Door"]
+  },
+  "switch-K0001460242": {
+    "title": "猎天使魔女",
+    "series": "猎天使魔女",
+    "aliases": ["獵天使魔女", "魔兵驚天錄", "猎天使魔女1", "Bayonetta"]
+  },
+  "switch-K0001387049": {
+    "title": "猎天使魔女 3",
+    "series": "猎天使魔女",
+    "aliases": ["獵天使魔女 3", "魔兵驚天錄 3", "Bayonetta 3"]
+  },
+  "switch-K0001506333": {
+    "title": "猎天使魔女 起源",
+    "series": "猎天使魔女",
+    "aliases": ["獵天使魔女 起源", "蓓优妮塔起源 瑟蕾莎与失落的恶魔", "Bayonetta Origins Cereza and the Lost Demon"]
+  },
+  "switch-K0001403078": {
+    "title": "怪物猎人 崛起",
+    "label": "Best Price",
+    "series": "怪物猎人",
+    "aliases": ["魔物獵人 崛起", "怪物獵人 崛起", "怪猎崛起", "Monster Hunter Rise"]
+  },
+  "switch-K0001496604": {
+    "aliasesFrom": "switch-K0001403078",
+    "label": "Best Price（2022）",
+    "series": "怪物猎人"
+  },
+  "switch-K0001431253": {
+    "title": "怪物猎人 崛起＋曙光",
+    "label": "含曙光",
+    "series": "怪物猎人",
+    "aliases": ["魔物獵人 崛起＋破曉", "怪猎崛起曙光", "曙光", "Monster Hunter Rise Sunbreak"]
+  },
+  "switch-K0001584175": {
+    "aliasesFrom": "switch-K0001431253",
+    "label": "含曙光 · Best Price",
+    "series": "怪物猎人"
+  },
+  "switch-K0001717618": {
+    "aliasesFrom": "switch-K0001431253",
+    "label": "含曙光 · Best Price（再版）",
+    "series": "怪物猎人"
+  },
+  "switch-K0001339587": {
+    "title": "怪物猎人物语 2 毁灭之翼",
+    "series": "怪物猎人",
+    "aliases": ["魔物獵人物語 2 破滅之翼", "怪物猎人物语2", "Monster Hunter Stories 2 Wings of Ruin"]
+  },
+  "switch-K0001496605": {
+    "aliasesFrom": "switch-K0001339587",
+    "label": "Best Price",
+    "series": "怪物猎人"
+  },
+  "switch2-K0001702076": {
+    "title": "怪物猎人物语 3 命运双龙",
+    "series": "怪物猎人",
+    "aliases": ["魔物獵人物語 3 命運雙龍", "怪物猎人物语3", "Monster Hunter Stories 3 Twisted Reflection"]
+  },
+  "switch-K0001472557": {
+    "title": "八方旅人 II",
+    "series": "八方旅人",
+    "aliases": ["歧路旅人2", "八方旅人2", "Octopath Traveler II", "Octopath Traveler 2"]
+  },
+  "switch-K0001702081": {
+    "title": "八方旅人 0",
+    "series": "八方旅人",
+    "aliases": ["歧路旅人0", "Octopath Traveler 0"]
+  },
+  "switch2-K0001702080": {
+    "aliasesFrom": "switch-K0001702081",
+    "series": "八方旅人"
+  },
+  "switch2-K0001794511": {
+    "title": "八方旅人 1＋2 合集",
+    "label": "1＋2 合集",
+    "series": "八方旅人",
+    "aliases": ["歧路旅人1+2", "八方旅人合集", "Octopath Traveler Bundle"]
+  },
+  "switch-K0001197263": {
+    "title": "空洞骑士",
+    "aliases": ["空洞騎士", "Hollow Knight"]
+  },
+  "switch-VGC-158586": {
+    "title": "星露谷物语 收藏版",
+    "label": "收藏版",
+    "aliases": ["星露谷物語 收藏版", "星露谷物语", "星露谷物語", "Stardew Valley"]
+  },
+  "switch-K0001374625": {
+    "title": "哈迪斯",
+    "aliases": ["黑帝斯", "Hades"]
+  },
+  "switch2-K0001711331": {
+    "title": "哈迪斯 II",
+    "aliases": ["黑帝斯 II", "哈迪斯2", "黑帝斯2", "Hades II"]
+  },
+  "switch-K0001543744": {
+    "title": "死亡细胞 重返恶魔城",
+    "label": "重返恶魔城",
+    "aliases": ["死亡細胞 重返惡魔城", "死亡细胞", "死亡細胞", "重生细胞", "重生細胞", "Dead Cells Return to Castlevania"]
+  },
+  "switch-VGC-178290": {
+    "title": "蔚蓝",
+    "aliases": ["蔚藍", "Celeste"]
+  },
+  "switch-K0001472564": {
+    "title": "双人成行",
+    "aliases": ["雙人成行", "It Takes Two"]
+  },
+  "switch2-K0001803839": {
+    "aliasesFrom": "switch-K0001472564"
+  },
+  "switch-K0001356518": {
+    "title": "胡闹厨房 全都好吃",
+    "series": "胡闹厨房",
+    "aliases": ["胡鬧廚房 全都好吃", "分手厨房全都好吃", "Overcooked All You Can Eat"]
+  },
+  "switch-K0001421287": {
+    "title": "太鼓之达人 咚咚雷音祭",
+    "series": "太鼓之达人",
+    "aliases": ["太鼓之達人 咚咚雷音祭", "咚咚雷音祭", "Taiko no Tatsujin Rhythm Festival"]
+  },
+  "switch-K0000959385": {
+    "title": "我的世界",
+    "aliases": ["Minecraft"]
+  },
+  "switch2-K0001799790": {
+    "aliasesFrom": "switch-K0000959385"
+  },
+  "switch-K0001379785": {
+    "title": "我的世界 地下城 终极版",
+    "label": "终极版",
+    "aliases": ["我的世界 地下城", "Minecraft Dungeons Ultimate Edition"]
+  },
+  "switch-K0001512718": {
+    "title": "我的世界 传奇",
+    "aliases": ["我的世界 傳奇", "Minecraft Legends"]
+  },
+  "switch-K0001799045": {
+    "title": "我的世界 地下城 II",
+    "aliases": ["我的世界 地下城2", "Minecraft Dungeons II"]
+  },
+  "switch2-K0001793955": {
+    "aliasesFrom": "switch-K0001799045"
+  },
+  "switch-K0001456178": {
+    "title": "女神异闻录 5 皇家版",
+    "series": "女神异闻录",
+    "aliases": ["女神異聞錄 5 皇家版", "女神异闻录5皇家版", "P5R", "Persona 5 Royal"]
+  },
+  "switch-K0001206095": {
+    "title": "女神异闻录 5 乱战 魅影攻手",
+    "series": "女神异闻录",
+    "aliases": ["女神異聞錄 5 亂戰 魅影攻手", "P5S", "Persona 5 Strikers"]
+  },
+  "switch-K0001413678": {
+    "title": "十三机兵防卫圈",
+    "aliases": ["十三機兵防衛圈", "13机兵防卫圈", "13 Sentinels Aegis Rim"]
+  },
+  "switch-K0001108534": {
+    "title": "逆转裁判 123 成步堂精选集",
+    "series": "逆转裁判",
+    "aliases": ["逆轉裁判 123 成步堂精選集", "逆转裁判123", "Phoenix Wright Ace Attorney Trilogy"]
+  },
+  "switch-K0001570221": {
+    "title": "逆转裁判 456 王泥喜精选集",
+    "series": "逆转裁判",
+    "aliases": ["逆轉裁判 456 王泥喜精選集", "逆转裁判456", "Apollo Justice Ace Attorney Trilogy"]
+  },
+  "switch-K0001351436": {
+    "title": "大逆转裁判 编年史",
+    "series": "逆转裁判",
+    "aliases": ["大逆轉裁判 編年史", "大逆转裁判1+2", "The Great Ace Attorney Chronicles"]
+  },
+  "switch-K0000932978": {
+    "title": "上古卷轴 V 天际",
+    "aliases": ["上古卷軸 V 天際", "上古卷轴5", "上古卷轴5天际", "Skyrim", "The Elder Scrolls V Skyrim"]
+  },
+  "switch-K0000973963": {
+    "title": "耀西的手工世界",
+    "series": "耀西",
+    "aliases": ["耀西手工世界", "Yoshi's Crafted World"]
+  },
+  "switch-K0001025200": {
+    "title": "马力欧网球 王牌高手",
+    "series": "超级马力欧",
+    "aliases": ["瑪利歐網球 王牌高手", "马里奥网球Ace", "Mario Tennis Aces"]
+  },
+  "switch2-K0001711318": {
+    "title": "马力欧网球 狂热",
+    "series": "超级马力欧",
+    "aliases": ["瑪利歐網球 狂熱", "马里奥网球狂热", "Mario Tennis Fever"]
+  },
+  "switch-K0001333394": {
+    "title": "马力欧高尔夫 超级冲冲冲",
+    "series": "超级马力欧",
+    "aliases": ["瑪利歐高爾夫 超級衝衝衝", "马里奥高尔夫超级冲冲冲", "Mario Golf Super Rush"]
+  },
+  "switch-K0001421288": {
+    "title": "马力欧激战前锋 战斗联赛",
+    "series": "超级马力欧",
+    "aliases": ["瑪利歐激戰前鋒 戰鬥聯賽", "马里奥足球", "Mario Strikers Battle League"]
+  },
+  "switch-K0001025201": {
+    "title": "咚奇刚 热带寒流",
+    "series": "咚奇刚",
+    "aliases": ["咚奇剛 熱帶寒流", "大金刚热带寒流", "森喜刚热带寒流", "Donkey Kong Country Tropical Freeze"]
+  },
+  "switch-K0001568927": {
+    "title": "马力欧 vs. 咚奇刚",
+    "aliases": ["瑪利歐 vs. 咚奇剛", "马里奥对大金刚", "Mario vs Donkey Kong"]
+  },
+  "switch-K0001634607": {
+    "title": "咚奇刚 归来 HD",
+    "series": "咚奇刚",
+    "aliases": ["咚奇剛 歸來 HD", "大金刚归来HD", "Donkey Kong Country Returns HD"]
+  },
+  "switch-K0001683201": {
+    "title": "朋友收集 梦想生活",
+    "aliases": ["朋友收集 夢想生活", "朋友收集", "Tomodachi Life Living the Dream"]
+  },
+  "switch2-K0001684112": {
+    "title": "生存小子",
+    "aliases": ["生存之子", "Survival Kids"]
+  },
+  "switch2-K0001684114": {
+    "title": "信长之野望 新生 威力加强版 完全版",
+    "label": "完全版",
+    "aliases": ["信長之野望 新生 威力加強版 完全版", "信长之野望新生威力加强版"]
+  },
+  "switch2-K0001684117": {
+    "title": "葛叶雷道 超力兵团奇谭",
+    "aliases": ["葛葉雷道 超力兵團奇譚", "超力兵团奇谭", "Raidou Remastered The Mystery of the Soulless Army"]
+  },
+  "switch2-K0001684119": {
+    "title": "狂野之心 S",
+    "aliases": ["狂野之心S", "Wild Hearts S"]
+  },
+  "switch2-K0001684233": {
+    "title": "符文工房 龙之天地",
+    "series": "符文工房",
+    "aliases": ["符文工廠 龍之天地", "符文工房龙之天地", "Rune Factory Guardians of Azuma"]
+  },
+  "switch2-K0001684236": {
+    "title": "牧场物语 来吧！风之繁华集市",
+    "series": "牧场物语",
+    "aliases": ["牧場物語 來吧！風之繁華市集", "牧场物语风之集市", "风之繁华集市", "Story of Seasons Grand Bazaar"]
+  },
+  "switch2-K0001687480": {
+    "title": "魔法气泡 特趣思 俄罗斯方块 2S",
+    "aliases": ["魔法氣泡 特趣思 俄羅斯方塊 2S", "噗哟噗哟俄罗斯方块2S", "Puyo Puyo Tetris 2S"]
+  },
+  "switch2-K0001687481": {
+    "title": "如龙 0 导演剪辑版",
+    "label": "导演剪辑版",
+    "series": "如龙",
+    "aliases": ["人中之龍 0 導演剪輯版", "如龙0", "人中之龙0", "Yakuza 0 Director's Cut"]
+  },
+  "switch2-K0001687482": {
+    "title": "伊苏 X 诺曼荣光",
+    "label": "诺曼荣光",
+    "series": "伊苏",
+    "aliases": ["伊蘇 X 諾曼榮光", "伊苏10诺曼荣光", "Ys X Proud Nordics"]
+  },
+  "switch2-K0001687484": {
+    "title": "索尼克×夏特 世代重启",
+    "aliases": ["索尼克×夏特 世代重啟", "索尼克夏特世代重启", "Sonic X Shadow Generations"]
+  },
+  "switch2-K0001687485": {
+    "title": "幻想水浒传 I＆II 高清重制版",
+    "aliases": ["幻想水滸傳 I＆II 高清重製版", "幻想水浒传1+2", "Suikoden I II HD Remaster"]
+  },
+  "switch2-K0001691452": {
+    "title": "勇者斗恶龙 I＆II HD-2D 重制版",
+    "series": "勇者斗恶龙",
+    "aliases": ["勇者鬥惡龍 I＆II HD-2D 重製版", "勇者斗恶龙1+2", "Dragon Quest I II HD-2D Remake"]
+  },
+  "switch2-K0001697815": {
+    "title": "小小梦魇 3",
+    "series": "小小梦魇",
+    "aliases": ["小小夢魘 3", "小小梦魇III", "Little Nightmares III"]
+  },
+  "switch2-K0001702078": {
+    "title": "桃太郎电铁 2 东日本篇＋西日本篇",
+    "label": "东西日本篇合集",
+    "aliases": ["桃太郎電鐵 2 東日本篇＋西日本篇", "桃太郎电铁2", "桃太郎電鐵2"]
+  },
+  "switch2-K0001702084": {
+    "title": "七龙珠 电光炸裂！ZERO",
+    "aliases": ["七龍珠 電光炸裂！ZERO", "龙珠 电光炸裂 ZERO", "Dragon Ball Sparking Zero"]
+  },
+  "switch2-K0001702087": {
+    "title": "如龙 极",
+    "series": "如龙",
+    "aliases": ["人中之龍 極", "Yakuza Kiwami"]
+  },
+  "switch2-K0001702088": {
+    "title": "如龙 极 2",
+    "series": "如龙",
+    "aliases": ["人中之龍 極 2", "Yakuza Kiwami 2"]
+  },
+  "switch2-K0001702092": {
+    "title": "星球大战 亡命之徒 黄金版",
+    "label": "黄金版",
+    "aliases": ["星際大戰 亡命之徒 黃金版", "星球大战亡命之徒", "Star Wars Outlaws"]
+  },
+  "switch2-K0001702094": {
+    "title": "EA SPORTS FC 26",
+    "aliases": ["FC26"]
+  },
+  "switch2-K0001704714": {
+    "title": "NBA 2K26",
+    "aliases": ["NBA2K26"]
+  },
+  "switch2-K0001767393": {
+    "aliasesFrom": "switch2-K0001704714",
+    "label": "Best Price"
+  },
+  "switch2-K0001704715": {
+    "title": "幻想生活 i 转圈圈的龙和偷取时间的少女",
+    "aliases": ["幻想生活 i 轉圈圈的龍和偷取時間的少女", "幻想生活i", "Fantasy Life i"]
+  },
+  "switch2-K0001711322": {
+    "title": "勇者斗恶龙 VII Reimagined",
+    "series": "勇者斗恶龙",
+    "aliases": ["勇者鬥惡龍 VII Reimagined", "勇者斗恶龙7重制版", "Dragon Quest VII Reimagined"]
+  },
+  "switch2-K0001711323": {
+    "title": "宝可梦 Pokopia",
+    "series": "宝可梦",
+    "aliases": ["寶可夢 Pokopia", "宝可梦波克比亚", "Pokémon Pokopia", "Pokemon Pokopia"]
+  },
+  "switch2-K0001711324": {
+    "title": "生化危机 安魂曲",
+    "series": "生化危机",
+    "aliases": ["惡靈古堡 安魂曲", "生化危机9", "Resident Evil Requiem"]
+  },
+  "switch2-K0001718056": {
+    "title": "生化危机 安魂曲 豪华版",
+    "aliasesFrom": "switch2-K0001711324",
+    "label": "豪华版",
+    "series": "生化危机",
+    "aliases": ["惡靈古堡 安魂曲 豪華版", "生化危机9豪华版", "Resident Evil Requiem Deluxe Edition"]
+  },
+  "switch2-K0001711325": {
+    "title": "生化危机 7 黄金版",
+    "label": "黄金版",
+    "series": "生化危机",
+    "aliases": ["惡靈古堡 7 黃金版", "生化危机7", "Resident Evil 7 Gold Edition"]
+  },
+  "switch2-K0001711326": {
+    "title": "生化危机 村庄 黄金版",
+    "label": "黄金版",
+    "series": "生化危机",
+    "aliases": ["惡靈古堡 村莊 黃金版", "生化危机8", "生化危机村庄", "Resident Evil Village Gold Edition"]
+  },
+  "switch2-K0001711333": {
+    "title": "零 红蝶 重制版",
+    "aliases": ["零 紅蝶 重製版", "零红蝶", "零紅蝶", "Fatal Frame II Crimson Butterfly Remake"]
+  },
+  "switch2-K0001711334": {
+    "title": "最终幻想 VII 重制版 Intergrade",
+    "series": "最终幻想",
+    "aliases": ["最終幻想 VII 重製版 Intergrade", "最终幻想7重制版", "FF7 Remake Intergrade", "Final Fantasy VII Remake Intergrade"]
+  },
+  "switch2-K0001711335": {
+    "title": "真・三国无双 起源",
+    "series": "无双",
+    "aliases": ["真・三國無雙 起源", "三国无双起源", "Dynasty Warriors Origins"]
+  },
+  "switch2-K0001711336": {
+    "title": "双点博物馆",
+    "aliases": ["雙點博物館", "Two Point Museum"]
+  },
+  "switch2-K0001712187": {
+    "title": "如龙 极 3／如龙 3 外传 Dark Ties",
+    "label": "本篇＋外传",
+    "series": "如龙",
+    "aliases": ["人中之龍 極 3／人中之龍 3 外傳 Dark Ties", "如龙极3", "如龙3外传", "Yakuza Kiwami 3"]
+  },
+  "switch2-K0001726111": {
+    "title": "识质存在",
+    "aliases": ["識質存在", "Pragmata"]
+  },
+  "switch2-K0001726123": {
+    "title": "漫威 宇宙入侵",
+    "aliases": ["Marvel Cosmic Invasion"]
+  },
+  "switch2-K0001763643": {
+    "title": "波斯王子 Rogue",
+    "aliases": ["The Rogue Prince of Persia"]
+  },
+  "switch2-K0001764035": {
+    "title": "动物迷城",
+    "aliases": ["動物迷城", "Back to the Dawn"]
+  },
+  "switch2-K0001765001": {
+    "title": "索尼克赛车 交叉世界",
+    "aliases": ["索尼克賽車 交叉世界", "Sonic Racing CrossWorlds"]
+  },
+  "switch2-K0001765006": {
+    "title": "电锯甜心 RePOP",
+    "aliases": ["電鋸甜心 RePOP", "Lollipop Chainsaw RePOP"]
+  },
+  "switch2-K0001768274": {
+    "title": "碧蓝幻想 Relink 无尽诸神黄昏",
+    "aliases": ["碧藍幻想 Relink 無盡諸神黃昏", "碧蓝幻想Relink", "Granblue Fantasy Relink Endless Ragnarok"]
+  },
+  "switch2-K0001768277": {
+    "title": "超级炸弹人合集",
+    "aliases": ["超級炸彈人合集", "Super Bomberman Collection"]
+  },
+  "switch2-K0001768280": {
+    "title": "破晓传说 黎明新程版",
+    "label": "含黎明新程",
+    "aliases": ["破曉傳奇 黎明新程版", "破晓传说", "Tales of Arise Beyond the Dawn Edition"]
+  },
+  "switch2-K0001768285": {
+    "title": "数码宝贝物语 时空异客",
+    "aliases": ["數碼寶貝物語 時空異客", "时空异客", "Digimon Story Time Stranger"]
+  },
+  "switch2-K0001768289": {
+    "title": "最终幻想 VII 重生",
+    "series": "最终幻想",
+    "aliases": ["最終幻想 VII 重生", "最终幻想7重生", "FF7 Rebirth", "Final Fantasy VII Rebirth"]
+  },
+  "switch2-K0001769769": {
+    "title": "合金装备 大师合集 Vol.2",
+    "aliases": ["潛龍諜影 大師合集 Vol.2", "合金装备大师合集2", "Metal Gear Solid Master Collection Vol 2"]
+  },
+  "switch2-K0001782550": {
+    "title": "闪电十一人 英雄们的胜利之路",
+    "aliases": ["閃電十一人 英雄們的勝利之路", "闪电十一人胜利之路", "Inazuma Eleven Victory Road"]
+  },
+  "switch2-K0001784813": {
+    "title": "星际火狐",
+    "aliases": ["星際火狐", "星际狐狸", "Star Fox"]
+  },
+  "switch2-K0001784814": {
+    "title": "有氧拳击 3",
+    "aliases": ["有氧拳擊 3", "健身拳击3", "Fit Boxing 3", "Fitness Boxing 3"]
+  },
+  "switch2-K0001789222": {
+    "title": "地球防卫军 5",
+    "aliases": ["地球防衛軍 5", "Earth Defense Force 5"]
+  },
+  "switch2-K0001789223": {
+    "title": "鬼泣 5 恶魔猎人版",
+    "label": "恶魔猎人版",
+    "aliases": ["惡魔獵人 5", "鬼泣5", "Devil May Cry 5 Devil Hunter Edition"]
+  },
+  "switch2-K0001789224": {
+    "title": "暗喻幻想 ReFantazio",
+    "aliases": ["Metaphor ReFantazio"]
+  },
+  "switch2-K0001789331": {
+    "title": "真・三国无双 2 猛将传 复刻版",
+    "aliases": ["真・三國無雙 2 猛將傳 復刻版", "三国无双2猛将传"]
+  },
+  "switch2-K0001789762": {
+    "title": "最终幻想 X／X-2 HD 重制版",
+    "series": "最终幻想",
+    "aliases": ["最終幻想 X／X-2 HD 重製版", "最终幻想10合集", "Final Fantasy X X-2 HD Remaster"]
+  },
+  "switch2-K0001791258": {
+    "title": "忍 复仇之斩",
+    "aliases": ["忍 復仇之斬", "Shinobi Art of Vengeance"]
+  },
+  "switch2-K0001792575": {
+    "title": "索尼克 未知边境",
+    "label": "超豪华版",
+    "aliases": ["索尼克 未知邊境", "索尼克未知边境豪华版", "Sonic Frontiers"]
+  },
+  "switch2-K0001799047": {
+    "title": "潜水员戴夫 完全版",
+    "label": "完全版",
+    "aliases": ["潛水員戴夫 完全版", "潜水员戴夫", "Dave the Diver"]
+  },
+  "switch2-K0001799051": {
+    "title": "迷失",
+    "aliases": ["浪貓", "流浪猫", "Stray"]
+  },
+  "switch2-K0001800757": {
+    "title": "艾尔登法环 褪色者版",
+    "label": "褪色者版",
+    "aliases": ["艾爾登法環 褪色者版", "艾尔登法环", "老头环", "Elden Ring Tarnished Edition"]
+  },
+  "switch2-K0001804357": {
+    "title": "乐高 哈利·波特 合集",
+    "aliases": ["樂高 哈利波特 合集", "乐高哈利波特", "Lego Harry Potter Collection"]
+  },
+  "switch2-K0001807124": {
+    "title": "匹诺曹的谎言 完全版",
+    "label": "完全版",
+    "aliases": ["匹諾曹的謊言 完全版", "P的谎言", "P的謊言", "Lies of P Complete Edition"]
+  },
+  "switch-K0001648900": {
+    "aliasesFrom": "switch2-K0001684233",
+    "series": "符文工房"
+  },
+  "switch-K0001683198": {
+    "aliasesFrom": "switch2-K0001684236",
+    "series": "牧场物语"
+  },
+  "switch-K0001269830": {
+    "title": "硬核机甲 斗士版",
+    "label": "斗士版",
+    "aliases": ["硬核機甲", "硬核机甲", "Hardcore Mecha"]
+  },
+  "switch-K0001299808": {
+    "title": "古诺希亚",
+    "aliases": ["古諾希亞", "古诺西亚", "GNOSIA"]
+  },
+  "switch-K0001436970": {
+    "title": "格林魔书 OnceMore",
+    "aliases": ["格林魔書 OnceMore", "GrimGrimoire OnceMore"]
+  },
+  "switch-K0001399869": {
+    "title": "非常普通的鹿 全装备版",
+    "label": "全装备版",
+    "aliases": ["非常普通的鹿", "特別普通的鹿", "普通的鹿", "DEEEER Simulator"]
+  },
+  "switch-K0001568923": {
+    "title": "圣兽之王",
+    "aliases": ["聖獸之王", "独角兽霸王", "Unicorn Overlord"]
+  },
+  "switch-K0000935050": {
+    "title": "勇者斗恶龙 英雄集结 I·II",
+    "series": "勇者斗恶龙",
+    "aliases": ["勇者鬥惡龍 英雄集結 I·II", "勇者斗恶龙英雄1+2", "Dragon Quest Heroes I II"]
+  },
+  "switch-K0000988099": {
+    "title": "勇者斗恶龙 创世小玩家 2",
+    "series": "勇者斗恶龙",
+    "aliases": ["勇者鬥惡龍 創世小玩家 2", "勇者斗恶龙建造者2", "Dragon Quest Builders 2"]
+  },
+  "switch-K0001294953": {
+    "aliasesFrom": "switch-K0000988099",
+    "label": "新版定价",
+    "series": "勇者斗恶龙"
+  },
+  "switch-K0001020765": {
+    "title": "勇者斗恶龙 创世小玩家",
+    "series": "勇者斗恶龙",
+    "aliases": ["勇者鬥惡龍 創世小玩家", "勇者斗恶龙建造者", "Dragon Quest Builders"]
+  },
+  "switch-K0001456174": {
+    "title": "勇者斗恶龙 寻宝探险团",
+    "series": "勇者斗恶龙",
+    "aliases": ["勇者鬥惡龍 尋寶探險團", "勇者斗恶龙寻宝", "Dragon Quest Treasures"]
+  },
+  "switch-K0001634609": {
+    "aliasesFrom": "switch2-K0001691452",
+    "series": "勇者斗恶龙"
+  },
+  "switch-K0001711321": {
+    "aliasesFrom": "switch2-K0001711322",
+    "series": "勇者斗恶龙"
+  },
+  "switch-K0001277823": {
+    "title": "凯登丝勇闯海拉鲁",
+    "aliases": ["凱登絲勇闖海拉魯", "海拉鲁的节奏", "Cadence of Hyrule"]
+  },
+  "switch-K0001431255": {
+    "title": "终结的莉莉丝 骑士寂夜",
+    "aliases": ["終結的莉莉絲 騎士寂夜", "终焉莉莉", "终结的百合花", "ENDER LILIES Quietus of the Knights"]
+  },
+  "switch-VGC-281227": {
+    "title": "终结的玛格诺莉亚 雾中盛放之花",
+    "aliases": ["終結的瑪格諾莉亞 霧中盛放之花", "终结的木兰花", "Ender Magnolia Bloom in the Mist"]
+  },
+  "switch-K0001277818": {
+    "title": "天穗之咲稻姬",
+    "aliases": ["天穗之佐久名姬", "天穗种田", "Sakuna Of Rice and Ruin"]
+  },
+  "switch-K0001403072": {
+    "aliasesFrom": "switch-K0001277818",
+    "label": "Best Price"
+  },
+  "switch-K0001601820": {
+    "title": "废墟图书馆",
+    "aliases": ["廢墟圖書館", "Library of Ruina"]
+  },
+  "switch-VGC-262570": {
+    "title": "潜水员戴夫 周年纪念版",
+    "aliasesFrom": "switch2-K0001799047",
+    "label": "周年纪念版",
+    "aliases": ["潛水員戴夫 週年紀念版", "Dave the Diver Anniversary Edition"]
+  },
+  "switch-K0001657207": {
+    "title": "人狼村之谜＋死亡竞赛恋爱喜剧",
+    "label": "冒险合集",
+    "aliases": ["人狼村之謎", "人狼村之谜", "Raging Loop"]
+  },
+  "switch-K0001642064": {
+    "title": "Famicom 侦探俱乐部 笑脸男",
+    "aliases": ["Famicom 偵探俱樂部 笑臉男", "任天堂侦探俱乐部笑脸男", "Emio The Smiling Man"]
+  },
+  "switch-K0001054583": {
+    "title": "雷顿神秘之旅 卡特莉艾尔与大富翁的阴谋 DX",
+    "label": "DX",
+    "aliases": ["雷頓神秘之旅 卡特莉艾爾與大富翁的陰謀 DX", "雷顿神秘之旅", "Layton's Mystery Journey"]
+  },
+  "switch-K0001354350": {
+    "title": "雷顿神秘之旅 卡特莉艾尔与大富翁的阴谋 DX＋",
+    "aliasesFrom": "switch-K0001054583",
+    "label": "DX＋",
+    "aliases": ["雷頓神秘之旅 DX＋", "雷顿神秘之旅DX+"]
+  },
+  "switch-K0001515148": {
+    "title": "幽灵诡计",
+    "aliases": ["幽靈詭計", "幽灵欺诈", "Ghost Trick Phantom Detective"]
+  },
+  "switch-K0001315114": {
+    "title": "新 美妙世界",
+    "aliases": ["新越美世界", "NEO The World Ends with You"]
+  },
+  "switch-K0001661218": {
+    "title": "都市传说解体中心",
+    "aliases": ["都市傳說解體中心", "Urban Myth Dissolution Center"]
+  },
+  "switch-K0001683209": {
+    "title": "伊达键不眠 From AI 梦境档案",
+    "aliases": ["伊達鍵不眠 From AI 夢境檔案", "伊达键不眠", "伊达键不会入睡", "No Sleep For Kaname Date"]
+  },
+  "switch2-K0001684118": {
+    "aliasesFrom": "switch-K0001683209"
+  },
+  "switch-K0001713384": {
+    "title": "黑暗拍卖",
+    "aliases": ["黑暗拍賣", "暗黑拍卖", "Dark Auction"]
+  },
+  "switch2-K0001772436": {
+    "aliasesFrom": "switch-K0001713384"
+  },
+  "switch-CIBBY-14eab62d": {
+    "title": "玛利欧vs.咚奇刚",
+    "aliases": ["瑪利歐vs.咚奇剛", "马力欧vs.咚奇刚", "马里奥vs.咚奇刚"]
+  },
+  "switch-CIBBY-197aa81a": {
+    "title": "异度神剑 终极版",
+    "aliases": ["異度神劍 終極版"]
+  },
+  "switch-CIBBY-26d0446e": {
+    "title": "集合啦！动物森友会",
+    "aliases": ["集合啦！動物森友會"]
+  },
+  "switch-CIBBY-6b6654da": {
+    "title": "异度神剑3",
+    "aliases": ["異度神劍3"]
+  },
+  "switch-CIBBY-c5a98888": {
+    "title": "超级玛利欧 奥德赛",
+    "aliases": ["超級瑪利歐 奧德賽", "超级马力欧 奥德赛", "超级马里奥 奥德赛"]
+  },
+  "switch-HAC-P-A35XA": {
+    "title": "英雄传说 闪之轨迹I：改 -Thors Military Academy 1204-",
+    "aliases": ["英雄傳說 閃之軌跡I：改 -Thors Military Academy 1204-"]
+  },
+  "switch-HAC-P-A437A": {
+    "title": "零 ～濡鸦之巫女～",
+    "aliases": ["零 ～濡鴉之巫女～"]
+  },
+  "switch-HAC-P-A43DA": {
+    "title": "食用系少女 2：美食内战",
+    "aliases": ["食用系少女 2：美食內戰"]
+  },
+  "switch-HAC-P-A4AUA": {
+    "title": "英雄传说 闪之轨迹II：改 -The Erebonian Civil War-",
+    "aliases": ["英雄傳說 閃之軌跡II：改 -The Erebonian Civil War-"]
+  },
+  "switch-HAC-P-A4TTA": {
+    "title": "春逝百年抄 The Centennial Case: A Shijima Story"
+  },
+  "switch-HAC-P-A7TWA": {
+    "title": "黄昏沉眠街"
+  },
+  "switch-HAC-P-A9K8A": {
+    "title": "无限神速斩 勇者斗恶龙 达伊的大冒险",
+    "aliases": ["無限神速斬 勇者鬥惡龍 達伊的大冒險"]
+  },
+  "switch-HAC-P-A9ZLA": {
+    "title": "热血物语SP",
+    "aliases": ["熱血物語SP"]
+  },
+  "switch-HAC-P-AN3NA": {
+    "title": "Phoenix Wright: Ace Attorney Trilogy(逆转裁判123成步堂精选集)",
+    "aliases": ["Phoenix Wright: Ace Attorney Trilogy(逆轉裁判123成步堂精選集)"]
+  },
+  "switch-HAC-P-ATPTA": {
+    "title": "初音未来 Project DIVA MEGA39's",
+    "aliases": ["初音未來 Project DIVA MEGA39's"]
+  },
+  "switch-HAC-P-AUATA": {
+    "title": "超级机器人大战V",
+    "aliases": ["超級機器人大戰V"]
+  },
+  "switch-HAC-P-AUAUA": {
+    "title": "超级机器人大战Ｘ",
+    "aliases": ["超級機器人大戰Ｘ"]
+  },
+  "switch-HAC-P-AW8WC": {
+    "title": "Fight of Animals 动物之鬪",
+    "aliases": ["Fight of Animals 動物之鬪"]
+  },
+  "switch-HAC-P-AWPNC": {
+    "title": "螃蟹大战 Fight Crab",
+    "aliases": ["螃蟹大戰 Fight Crab"]
+  },
+  "switch-HAC-P-AXGNA": {
+    "title": "爆钻小英雄 钻头乐园",
+    "aliases": ["爆鑽小英雄 鑽頭樂園"]
+  },
+  "switch-HAC-P-AZV8A": {
+    "title": "圣剑传说 Legend of Mana",
+    "aliases": ["聖劍傳說 Legend of Mana"]
+  },
+  "switch-K0000935164": {
+    "title": "FIRE EMBLEM 无双",
+    "aliases": ["FIRE EMBLEM 無雙"]
+  },
+  "switch-K0000967862": {
+    "title": "苍蓝雷霆GUNVOLT 强袭合辑",
+    "aliases": ["蒼藍雷霆GUNVOLT 強襲合輯"]
+  },
+  "switch-K0000998240": {
+    "title": "你裁我剪！斯尼帕Plus"
+  },
+  "switch-K0001019071": {
+    "title": "进击的巨人２",
+    "aliases": ["進擊的巨人２"]
+  },
+  "switch-K0001025204": {
+    "title": "ZELDA无双 海拉鲁全明星 豪华版",
+    "aliases": ["ZELDA無雙 海拉魯全明星 豪華版"]
+  },
+  "switch-K0001025677": {
+    "title": "方块创造者X",
+    "aliases": ["方塊創造者X"]
+  },
+  "switch-K0001051895": {
+    "title": "PSYVARIAR DELTA《闪速神机》",
+    "aliases": ["PSYVARIAR DELTA《閃速神機》"]
+  },
+  "switch-K0001055648": {
+    "title": "高高兴兴动物乐园",
+    "aliases": ["高高興興動物樂園"]
+  },
+  "switch-K0001063447": {
+    "title": "宵星传奇 REMASTER",
+    "aliases": ["宵星傳奇 REMASTER"]
+  },
+  "switch-K0001066737": {
+    "title": "无双OROCHI 蛇魔３",
+    "aliases": ["無雙OROCHI 蛇魔３"]
+  },
+  "switch-K0001071378": {
+    "title": "奈尔克与传说之炼金术士们 ～新大地之炼金工房～",
+    "aliases": ["奈爾克與傳說之鍊金術士們 ～新大地之鍊金工房～"]
+  },
+  "switch-K0001072014": {
+    "title": "托托莉的炼金工房 ～亚兰德之炼金术士2～ DX",
+    "aliases": ["托托莉的鍊金工房 ～亞蘭德之鍊金術士2～ DX"]
+  },
+  "switch-K0001091246": {
+    "title": "《运动派对》(Sports Party)",
+    "aliases": ["《運動派對》(Sports Party)"]
+  },
+  "switch-K0001091247": {
+    "title": "《传奇小钓手》(Legendary Fishing)",
+    "aliases": ["《傳奇小釣手》(Legendary Fishing)"]
+  },
+  "switch-K0001101496": {
+    "title": "真‧三国无双７ with 猛将传 DX",
+    "aliases": ["真‧三國無雙７ with 猛將傳 DX"]
+  },
+  "switch-K0001102000": {
+    "title": "露露亚的炼金工房 ～亚兰德之炼金术士4～",
+    "aliases": ["露露亞的鍊金工房 ～亞蘭德之鍊金術士4～"]
+  },
+  "switch-K0001108541": {
+    "title": "ZOIDS机兽战记 狂野爆发 王者爆发",
+    "aliases": ["ZOIDS機獸戰記 狂野爆發 王者爆發"]
+  },
+  "switch-K0001118407": {
+    "title": "乐高玩电影2游戏",
+    "aliases": ["樂高玩電影2遊戲"]
+  },
+  "switch-K0001124288": {
+    "title": "刀剑神域 虚空幻界 豪华版",
+    "aliases": ["刀劍神域 虛空幻界 豪華版"]
+  },
+  "switch-K0001129825": {
+    "title": "异界锁链",
+    "aliases": ["異界鎖鏈"]
+  },
+  "switch-K0001150127": {
+    "title": "噬神者3"
+  },
+  "switch-K0001152334": {
+    "title": "魔法气泡eSports",
+    "aliases": ["魔法氣泡eSports"]
+  },
+  "switch-K0001160968": {
+    "title": "魔犬大骚乱",
+    "aliases": ["魔犬大騷亂"]
+  },
+  "switch-K0001171229": {
+    "title": "初音未来 Project DIVA MEGA39's",
+    "aliases": ["初音未來 Project DIVA MEGA39's"]
+  },
+  "switch-K0001176159": {
+    "title": "现尝好滋味！超级猴子球",
+    "aliases": ["現嚐好滋味！超級猴子球"]
+  },
+  "switch-K0001178160": {
+    "title": "超级机器人大战V",
+    "aliases": ["超級機器人大戰V"]
+  },
+  "switch-K0001182090": {
+    "title": "LEGO® 侏罗纪世界",
+    "aliases": ["LEGO® 侏羅紀世界"]
+  },
+  "switch-K0001187541": {
+    "title": "幻影异闻录♯FE Encore",
+    "aliases": ["幻影異聞錄♯FE Encore"]
+  },
+  "switch-K0001197865": {
+    "title": "泰拉瑞亚",
+    "aliases": ["泰拉瑞亞"]
+  },
+  "switch-K0001202400": {
+    "title": "超级机器人大战Ｘ",
+    "aliases": ["超級機器人大戰Ｘ"]
+  },
+  "switch-K0001207651": {
+    "title": "妖怪捉迷藏(OBAKEIDORO!)"
+  },
+  "switch-K0001222479": {
+    "title": "我的英雄学院 唯我正义2",
+    "aliases": ["我的英雄學院 唯我正義2"]
+  },
+  "switch-K0001224167": {
+    "title": "遥远时空７",
+    "aliases": ["遙遠時空７"]
+  },
+  "switch-K0001224171": {
+    "title": "《Just Dance 舞力全开 2020》(Just Dance 2020)",
+    "aliases": ["《Just Dance 舞力全開 2020》(Just Dance 2020)"]
+  },
+  "switch-K0001227217": {
+    "title": "队长小翼 新秀崛起",
+    "aliases": ["隊長小翼 新秀崛起"]
+  },
+  "switch-K0001239107": {
+    "title": "封书冒险队",
+    "aliases": ["封書冒險隊"]
+  },
+  "switch-K0001246266": {
+    "title": "世界游戏大全51",
+    "aliases": ["世界遊戲大全51"]
+  },
+  "switch-K0001277829": {
+    "title": "爆丸：维斯托亚之冠",
+    "aliases": ["爆丸：維斯托亞之冠"]
+  },
+  "switch-K0001286669": {
+    "title": "魔法气泡™ 特趣思™ 俄罗斯方块™ 2",
+    "aliases": ["魔法氣泡™ 特趣思™ 俄羅斯方塊™ 2"]
+  },
+  "switch-K0001292767": {
+    "title": "《Just Dance 舞力全开 2021》- Just Dance 2021",
+    "aliases": ["《Just Dance 舞力全開 2021》- Just Dance 2021"]
+  },
+  "switch-K0001299207": {
+    "title": "Re：从零开始的异世界生活 虚假的王选候补",
+    "aliases": ["Re：從零開始的異世界生活 虛假的王選候補"]
+  },
+  "switch-K0001305261": {
+    "title": "铁翼少女 Wing of Darkness",
+    "aliases": ["鐵翼少女 Wing of Darkness"]
+  },
+  "switch-K0001306471": {
+    "title": "告别回忆 历代回忆录 第1册",
+    "aliases": ["告別回憶 歷代回憶錄 第1冊"]
+  },
+  "switch-K0001306472": {
+    "title": "告别回忆 历代回忆录 第2册",
+    "aliases": ["告別回憶 歷代回憶錄 第2冊"]
+  },
+  "switch-K0001333393": {
+    "title": "迷托邦"
+  },
+  "switch-K0001333403": {
+    "title": "战国无双５",
+    "aliases": ["戰國無雙５"]
+  },
+  "switch-K0001333405": {
+    "title": "No More Heroes 3 (英雄不再3)"
+  },
+  "switch-K0001336024": {
+    "title": "大航海时代Ⅳ with 威力加强版 HD Version",
+    "aliases": ["大航海時代Ⅳ with 威力加強版 HD Version"]
+  },
+  "switch-K0001336668": {
+    "title": "枫叶鼠物语",
+    "aliases": ["楓葉鼠物語"]
+  },
+  "switch-K0001344911": {
+    "title": "Blaster Master Zero Trilogy -超惑星战记编年史-",
+    "aliases": ["Blaster Master Zero Trilogy -超惑星戰記編年史-"]
+  },
+  "switch-K0001348934": {
+    "title": "献给迷宫的墓碑",
+    "aliases": ["獻給迷宮的墓碑"]
+  },
+  "switch-K0001352797": {
+    "title": "附带导航！一做就上手 第一次的游戏程式设计",
+    "aliases": ["附帶導航！一做就上手 第一次的遊戲程式設計"]
+  },
+  "switch-K0001354344": {
+    "title": "SINce Memories 星穹之下"
+  },
+  "switch-K0001358746": {
+    "title": "索尼克缤纷色彩 究极版（Sonic Colors: Ultimate）",
+    "aliases": ["索尼克繽紛色彩 究極版（Sonic Colors: Ultimate）"]
+  },
+  "switch-K0001362404": {
+    "title": "现尝好滋味！超级猴子球 1&2 重制版",
+    "aliases": ["現嚐好滋味！超級猴子球 1&2 重製版"]
+  },
+  "switch-K0001363392": {
+    "title": "旧书店街的桥姬 々",
+    "aliases": ["舊書店街的橋姬 々"]
+  },
+  "switch-K0001368206": {
+    "title": "BLUE REFLECTION: 帝"
+  },
+  "switch-K0001368209": {
+    "title": "动物之鬪：竞技场(Fight of Animals: Arena)",
+    "aliases": ["動物之鬪：競技場(Fight of Animals: Arena)"]
+  },
+  "switch-K0001386664": {
+    "title": "COGEN: 大凤羽空和刻之剑",
+    "aliases": ["COGEN: 大鳳羽空和刻之劍"]
+  },
+  "switch-K0001386666": {
+    "title": "灵活脑学校 一起伸展大脑",
+    "aliases": ["靈活腦學校 一起伸展大腦"]
+  },
+  "switch-K0001387048": {
+    "title": "《Just Dance 舞力全开 2022》 - Just Dance 2022",
+    "aliases": ["《Just Dance 舞力全開 2022》 - Just Dance 2022"]
+  },
+  "switch-K0001402035": {
+    "title": "Angry Alligator 愤怒鳄鱼",
+    "aliases": ["Angry Alligator 憤怒鱷魚"]
+  },
+  "switch-K0001429181": {
+    "title": "吃豆人 博物馆+（PAC-MAN MUSEUM+）",
+    "aliases": ["吃豆人 博物館+（PAC-MAN MUSEUM+）"]
+  },
+  "switch-K0001431254": {
+    "title": "狄兰多：口袋小宇宙",
+    "aliases": ["狄蘭多：口袋小宇宙"]
+  },
+  "switch-K0001434538": {
+    "title": "苍蓝雷霆GUNVOLT 3 锁环",
+    "aliases": ["蒼藍雷霆GUNVOLT 3 鎖環"]
+  },
+  "switch-K0001449171": {
+    "title": "来自深渊 朝向黑暗的双星",
+    "aliases": ["來自深淵 朝向黑暗的雙星"]
+  },
+  "switch-K0001459136": {
+    "title": "神领编年史 The DioField Chronicle",
+    "aliases": ["神領編年史 The DioField Chronicle"]
+  },
+  "switch-K0001459137": {
+    "title": "乐高®大乱斗 (LEGO® Brawls)",
+    "aliases": ["樂高®大亂鬥 (LEGO® Brawls)"]
+  },
+  "switch-K0001472561": {
+    "title": "超侦探事件簿 雾雨谜宫",
+    "aliases": ["超偵探事件簿 霧雨謎宮"]
+  },
+  "switch-K0001494793": {
+    "title": "哆啦A梦 大雄的紧张刺激动脑大冒险",
+    "aliases": ["哆啦A夢 大雄的緊張刺激動腦大冒險"]
+  },
+  "switch-K0001497719": {
+    "title": "ONI：鬼族武者立志传",
+    "aliases": ["ONI：鬼族武者立志傳"]
+  },
+  "switch-K0001515146": {
+    "title": "Samba de Amigo : 欢乐摇摇派对",
+    "aliases": ["Samba de Amigo : 歡樂搖搖派對"]
+  },
+  "switch-K0001526001": {
+    "title": "狐狸在等我花 The Fox Awaits Me HANA"
+  },
+  "switch-K0001529621": {
+    "title": "Tin Hearts -锡之心-",
+    "aliases": ["Tin Hearts -錫之心-"]
+  },
+  "switch-K0001540905": {
+    "title": "可雅与玛拉的五海盗",
+    "aliases": ["可雅與瑪拉的五海盜"]
+  },
+  "switch-K0001542157": {
+    "title": "花合 朔 -蛟篇-"
+  },
+  "switch-K0001542158": {
+    "title": "花合 朔 -姬空木篇-"
+  },
+  "switch-K0001542159": {
+    "title": "花合 朔 -唐红/宇津都篇-",
+    "aliases": ["花合 朔 -唐紅/宇津都篇-"]
+  },
+  "switch-K0001542160": {
+    "title": "花合 朔 -伊吕波篇-",
+    "aliases": ["花合 朔 -伊呂波篇-"]
+  },
+  "switch-K0001543743": {
+    "title": "无限神速斩 勇者斗恶龙 达伊的大冒险",
+    "aliases": ["無限神速斬 勇者鬥惡龍 達伊的大冒險"]
+  },
+  "switch-K0001546467": {
+    "title": "《波斯王子：失落王冠》(Prince of Persia: The Lost Crown)"
+  },
+  "switch-K0001547126": {
+    "title": "索尼克 超级巨星",
+    "aliases": ["索尼克 超級巨星"]
+  },
+  "switch-K0001547135": {
+    "title": "超级舞动 瓦利欧制造",
+    "aliases": ["超級舞動 瓦利歐製造"]
+  },
+  "switch-K0001549981": {
+    "title": "幻日夜羽 -湛海耀光-"
+  },
+  "switch-K0001562127": {
+    "title": "幻世醉虎传 PLUS",
+    "aliases": ["幻世醉虎傳 PLUS"]
+  },
+  "switch-K0001563610": {
+    "title": "虚时异境：迷离时空 终极版（DYSCHRONIA: Chronos Alternate - Definitive Edition）",
+    "aliases": ["虛時異境：迷離時空 終極版（DYSCHRONIA: Chronos Alternate - Definitive Edition）"]
+  },
+  "switch-K0001568925": {
+    "title": "千变的迷宫 风来的希炼６ 蛇蜷岛探险谭",
+    "aliases": ["千變的迷宮 風來的希煉６ 蛇蜷島探險譚"]
+  },
+  "switch-K0001568930": {
+    "title": "Another Code 回忆录：两种记忆／记忆之门",
+    "aliases": ["Another Code 回憶錄：兩種記憶／記憶之門"]
+  },
+  "switch-K0001576552": {
+    "title": "上海LEGEND"
+  },
+  "switch-K0001586671": {
+    "title": "夜下降生 II Sys:Celes"
+  },
+  "switch-K0001716397": {
+    "title": "战场的赋格曲",
+    "aliases": ["戰場的賦格曲"]
+  },
+  "switch-K0001716398": {
+    "title": "战场的赋格曲２",
+    "aliases": ["戰場的賦格曲２"]
+  },
+  "switch-VGC-132416": {
+    "title": "超级玛利欧 奥德赛",
+    "aliases": ["超級瑪利歐 奧德賽", "超级马力欧 奥德赛", "超级马里奥 奥德赛"]
+  },
+  "switch-VGC-136458": {
+    "title": "蓓优妮塔2",
+    "aliases": ["蓓優妮塔2", "猎天使魔女2"]
+  },
+  "switch-VGC-139580": {
+    "title": "神奇小子 龙之陷阱",
+    "aliases": ["神奇小子 龍之陷阱"]
+  },
+  "switch-VGC-140239": {
+    "title": "新世界地图 1469",
+    "aliases": ["新世界地圖 1469"]
+  },
+  "switch-VGC-156078": {
+    "title": "蓓优妮塔 魔兵惊天录",
+    "aliases": ["蓓優妮塔 魔兵驚天錄", "猎天使魔女 魔兵惊天录"]
+  },
+  "switch-VGC-164174": {
+    "title": "异界锁链",
+    "aliases": ["異界鎖鏈"]
+  },
+  "switch-VGC-175237": {
+    "title": "夜下降生 Exe:Late[cl-r]"
+  },
+  "switch-VGC-176757": {
+    "title": "Super Mario Maker 2（超级玛利欧创作家 2）",
+    "aliases": ["Super Mario Maker 2（超級瑪利歐創作家 2）", "Super Mario Maker 2（超级马力欧创作家 2）", "Super Mario Maker 2（超级马里奥创作家 2）"]
+  },
+  "switch-VGC-183335": {
+    "title": "爆丸：维斯托亚之冠",
+    "aliases": ["爆丸：維斯托亞之冠"]
+  },
+  "switch-VGC-184825": {
+    "title": "妖怪捉迷藏(OBAKEIDORO!)"
+  },
+  "switch-VGC-185197": {
+    "title": "Fight of Gods 众神之鬪",
+    "aliases": ["Fight of Gods 眾神之鬪"]
+  },
+  "switch-VGC-186489": {
+    "title": "巴兰的异想奇境",
+    "aliases": ["巴蘭的異想奇境"]
+  },
+  "switch-VGC-187500": {
+    "title": "One Step From Eden 《伊甸之路》"
+  },
+  "switch-VGC-194301": {
+    "title": "Raiden IV x MIKADO remix 雷电IV x 米卡多 混音版",
+    "aliases": ["Raiden IV x MIKADO remix 雷電IV x 米卡多 混音版"]
+  },
+  "switch-VGC-196431": {
+    "title": "前进，天空塔！Forward To The Sky",
+    "aliases": ["前進，天空塔！Forward To The Sky"]
+  },
+  "switch-VGC-198017": {
+    "title": "ARIA CHRONICLE -艾莉亚纪元战记-",
+    "aliases": ["ARIA CHRONICLE -艾莉亞紀元戰記-"]
+  },
+  "switch-VGC-198064": {
+    "title": "《夜勤人》（Moonlighter)"
+  },
+  "switch-VGC-198373": {
+    "title": "Fight of Animals 动物之鬪",
+    "aliases": ["Fight of Animals 動物之鬪"]
+  },
+  "switch-VGC-208244": {
+    "title": "Deedlit in Wonder Labyrinth (蒂德莉特的奇境迷宫冒险)",
+    "aliases": ["Deedlit in Wonder Labyrinth (蒂德莉特的奇境迷宮冒險)"]
+  },
+  "switch-VGC-213343": {
+    "title": "宝可梦传说 阿尔宙斯",
+    "aliases": ["寶可夢傳說 阿爾宙斯"]
+  },
+  "switch-VGC-214636": {
+    "title": "蓓优妮塔3",
+    "aliases": ["蓓優妮塔3", "猎天使魔女3"]
+  },
+  "switch-VGC-216940": {
+    "title": "LEGO® Star Wars™: 天行者传奇 (The Skywalker Saga)",
+    "aliases": ["LEGO® Star Wars™: 天行者傳奇 (The Skywalker Saga)"]
+  },
+  "switch-VGC-217919": {
+    "title": "吃豆人 博物馆+（PAC-MAN MUSEUM+）",
+    "aliases": ["吃豆人 博物館+（PAC-MAN MUSEUM+）"]
+  },
+  "switch-VGC-219438": {
+    "title": "异度神剑 终极版",
+    "aliases": ["異度神劍 終極版"]
+  },
+  "switch-VGC-219442": {
+    "title": "密特罗德 生存恐惧",
+    "aliases": ["密特羅德 生存恐懼"]
+  },
+  "switch-VGC-226781": {
+    "title": "斯普拉遁 3"
+  },
+  "switch-VGC-230085": {
+    "title": "主播女孩重度依赖 / NEEDY GIRL OVERDOSE",
+    "aliases": ["主播女孩重度依賴 / NEEDY GIRL OVERDOSE"]
+  },
+  "switch-VGC-232119": {
+    "title": "师父",
+    "aliases": ["師父"]
+  },
+  "switch-VGC-236071": {
+    "title": "歧路旅人II OCTOPATH TRAVELER II",
+    "aliases": ["八方旅人II OCTOPATH TRAVELER II"]
+  },
+  "switch-VGC-236880": {
+    "title": "New 宝可梦随乐拍",
+    "aliases": ["New 寶可夢隨樂拍"]
+  },
+  "switch-VGC-237397": {
+    "title": "密特罗德 究极 复刻版",
+    "aliases": ["密特羅德 究極 復刻版"]
+  },
+  "switch-VGC-243949": {
+    "title": "纸片玛利欧：折纸国王",
+    "aliases": ["紙片瑪利歐：摺紙國王", "纸片马力欧：折纸国王", "纸片马里奥：折纸国王"]
+  },
+  "switch-VGC-250238": {
+    "title": "无限神速斩 勇者斗恶龙 达伊的大冒险",
+    "aliases": ["無限神速斬 勇者鬥惡龍 達伊的大冒險"]
+  },
+  "switch-VGC-251118": {
+    "title": "皮克敏４"
+  },
+  "switch-VGC-251727": {
+    "title": "夕鬼(Yuoni)"
+  },
+  "switch-VGC-253098": {
+    "title": "Samba de Amigo : 欢乐摇摇派对",
+    "aliases": ["Samba de Amigo : 歡樂搖搖派對"]
+  },
+  "switch-VGC-253350": {
+    "title": "New 超级玛利欧兄弟U 豪华版",
+    "aliases": ["New 超級瑪利歐兄弟U 豪華版", "New 超级马力欧兄弟U 豪华版", "New 超级马里奥兄弟U 豪华版"]
+  },
+  "switch-VGC-256352": {
+    "title": "花合 朔 -姬空木篇-"
+  },
+  "switch-VGC-256355": {
+    "title": "花合 朔 -唐红/宇津都篇-",
+    "aliases": ["花合 朔 -唐紅/宇津都篇-"]
+  },
+  "switch-VGC-256358": {
+    "title": "花合 朔 -伊吕波篇-",
+    "aliases": ["花合 朔 -伊呂波篇-"]
+  },
+  "switch-VGC-256359": {
+    "title": "花合 朔 -蛟篇-"
+  },
+  "switch-VGC-260460": {
+    "title": "Another Code 回忆录：两种记忆／记忆之门",
+    "aliases": ["Another Code 回憶錄：兩種記憶／記憶之門"]
+  },
+  "switch-VGC-262386": {
+    "title": "幻日夜羽 - 蜃景努玛梓 -",
+    "aliases": ["幻日夜羽 - 蜃景努瑪梓 -"]
+  },
+  "switch-VGC-263251": {
+    "title": "GUNVOLT RECORDS 电子轨录律",
+    "aliases": ["GUNVOLT RECORDS 電子軌錄律"]
+  },
+  "switch-VGC-272627": {
+    "title": "失落史诗",
+    "aliases": ["失落史詩"]
+  },
+  "switch-VGC-275641": {
+    "title": "幽魂战士 (Souldiers)",
+    "aliases": ["幽魂戰士 (Souldiers)"]
+  },
+  "switch-VGC-291056": {
+    "title": "动物之鬪：竞技场(Fight of Animals: Arena)",
+    "aliases": ["動物之鬪：競技場(Fight of Animals: Arena)"]
+  },
+  "switch-VGC-292304": {
+    "title": "迷托邦"
+  },
+  "switch-HAC-P-ASABB": {
+    "title": "死或生 沙滩排球 3 Scarlet",
+    "aliases": ["生死格鬥 沙灘排球 3 Scarlet", "死或生沙滩排球3", "Dead or Alive Xtreme 3 Scarlet"]
+  },
+  "switch-HAC-P-BBJCA": {
+    "title": "拳皇 XIII 全球对决",
+    "aliases": ["拳皇13", "格鬥天王 XIII 全球對決", "The King of Fighters XIII Global Match"]
+  },
+  "switch-K0001561701": {
+    "aliasesFrom": "switch-HAC-P-BBJCA"
+  },
+  "switch-VGC-125992": {
+    "aliasesFrom": "switch-K0000932977"
+  },
+  "switch-VGC-185242": {
+    "title": "王国之心 记忆旋律",
+    "aliases": ["王國之心 記憶旋律", "Kingdom Hearts Melody of Memory"]
+  },
+  "switch-VGC-230039": {
+    "title": "魂斗罗 RC 联盟",
+    "aliases": ["魂斗羅 RC 聯盟", "Contra Rogue Corps"]
+  },
+  "switch-VGC-238601": {
+    "title": "索尼克 起源 PLUS",
+    "label": "PLUS",
+    "aliases": ["索尼克起源", "Sonic Origins Plus"]
+  },
+  "switch-VGC-251119": {
+    "aliasesFrom": "switch-K0001547124"
+  },
+  "switch-K0001421293": {
+    "title": "时空勇士",
+    "aliases": ["時空勇士", "LIVE A LIVE", "狂飙骑士"]
+  },
+  "switch-K0001388637": {
+    "title": "勇者斗恶龙 X 觉醒的五种族 离线版",
+    "aliases": ["勇者鬥惡龍 X 覺醒的五種族 離線版", "勇者斗恶龙10离线版", "Dragon Quest X Offline"]
+  },
+  "switch-K0001547122": {
+    "title": "勇者斗恶龙 怪兽篇 3",
+    "aliases": ["勇者鬥惡龍 怪獸篇 3", "勇者斗恶龙怪兽仙境3", "魔族王子与艾尔芙的旅程", "Dragon Quest Monsters The Dark Prince"]
+  },
+  "switch-K0001547123": {
+    "title": "勇者斗恶龙 怪兽篇 3 大师版",
+    "aliasesFrom": "switch-K0001547122",
+    "label": "大师版",
+    "aliases": ["勇者鬥惡龍 怪獸篇 3 大師版", "勇者斗恶龙怪兽仙境3大师版"]
+  },
+  "switch-K0001013508": {
+    "title": "命运石之门 ELITE",
+    "aliases": ["命運石之門 ELITE", "Steins Gate Elite"]
+  },
+  "switch-VGC-136005": {
+    "aliasesFrom": "switch-K0001013508"
+  },
+  "switch-K0001606361": {
+    "title": "命运石之门 15周年双重包",
+    "label": "15周年双重包",
+    "aliases": ["命運石之門 15週年雙重包", "命运石之门15周年合集"]
+  },
+  "switch-K0001784815": {
+    "title": "命运石之门 RE:BOOT",
+    "aliases": ["命運石之門 RE:BOOT", "命运石之门重启", "Steins Gate Reboot"]
+  },
+  "switch2-K0001784817": {
+    "aliasesFrom": "switch-K0001784815"
+  },
+  "switch-K0001066744": {
+    "title": "战场女武神 4",
+    "aliases": ["戰場女武神 4", "Valkyria Chronicles 4"]
+  },
+  "switch-K0001284357": {
+    "title": "战场女武神 4 新版定价",
+    "aliasesFrom": "switch-K0001066744",
+    "label": "新版定价",
+    "aliases": ["戰場女武神 4 新版定價", "战场女武神4再版"]
+  },
+  "switch-K0001025205": {
+    "title": "伊苏 VIII 丹娜的陨涕日",
+    "aliases": ["伊蘇 VIII 丹娜的隕涕日", "伊苏8", "Ys VIII Lacrimosa of Dana"]
+  },
+  "switch-K0001354652": {
+    "title": "伊苏 IX 怪人之夜",
+    "aliases": ["伊蘇 IX 怪人之夜", "伊苏9", "Ys IX Monstrum Nox"]
+  },
+  "switch-K0001512178": {
+    "title": "伊苏 回忆录 菲尔盖纳的誓约",
+    "aliases": ["伊蘇 回憶錄 菲爾蓋納的誓約", "菲尔盖纳的誓约", "Ys Memoire The Oath in Felghana"]
+  },
+  "switch-K0001543741": {
+    "title": "伊苏 X 北境历险",
+    "aliases": ["伊蘇 X 北境歷險", "伊苏10", "Ys X Nordics"]
+  },
+  "switch-K0001678298": {
+    "title": "伊苏 回忆录 塞尔塞塔的树海",
+    "aliases": ["伊蘇 回憶錄 塞爾塞塔的樹海", "塞尔塞塔的树海", "Ys Memoire Memories of Celceta"]
+  },
+  "switch-K0001474790": {
+    "title": "开箱整理",
+    "aliases": ["開箱整理", "搬家模拟器", "Unpacking"]
+  },
+  "switch-VGC-280432": {
+    "aliasesFrom": "switch-K0001474790"
+  },
+  "switch-K0001075067": {
+    "title": "传说之下",
+    "aliases": ["傳說之下", "Undertale"]
+  },
+  "switch-VGC-269877": {
+    "title": "OMORI",
+    "aliases": ["奥莫里", "奧莫里"]
+  },
+  "switch-VGC-215102": {
+    "title": "杀戮尖塔",
+    "aliases": ["殺戮尖塔", "Slay the Spire"]
+  },
+  "switch-K0001507743": {
+    "title": "茶杯头",
+    "aliases": ["茶杯頭", "茶杯头大冒险", "Cuphead"]
+  },
+  "switch-HAC-P-APHFA": {
+    "title": "寒蝉鸣泣之时 奉",
+    "aliases": ["寒蟬鳴泣之時 奉", "寒蝉鸣泣之时", "Higurashi When They Cry Hou"]
+  },
+  "switch-VGC-253344": {
+    "title": "弹丸论破 三部曲＋幸福弹丸论破 S",
+    "label": "三部曲＋S",
+    "aliases": ["彈丸論破 三部曲", "弹丸论破合集", "Danganronpa Decadence"]
+  },
+  "switch-VGC-152523": {
+    "title": "块魂 Encore",
+    "aliases": ["塊魂 Encore", "块魂重演", "Katamari Damacy Reroll"]
+  },
+  "switch-K0001586984": {
+    "title": "东方月神夜",
+    "aliases": ["東方月神夜", "Touhou Luna Nights"]
+  },
+  "switch-VGC-260829": {
+    "aliasesFrom": "switch-K0001586984"
+  },
+  "switch-VGC-250832": {
+    "title": "东方新世界",
+    "aliases": ["東方新世界", "Touhou New World", "Touhou Shinsekai"]
+  },
+  "switch-VGC-275671": {
+    "title": "东方夜雀食堂",
+    "aliases": ["東方夜雀食堂", "夜雀食堂", "Touhou Mystia's Izakaya"]
+  },
+  "switch-VGC-284160": {
+    "title": "东方弹幕神乐 失落幻想",
+    "aliases": ["東方彈幕神樂 失落幻想", "东方弹幕神乐", "Touhou Danmaku Kagura Phantasia Lost"]
+  },
+  "switch-K0001239101": {
+    "title": "胡闹搬家",
+    "aliases": ["胡鬧搬家", "分手搬家", "Moving Out"]
+  },
+  "switch-HAC-P-BAQ7A": {
+    "title": "最终幻想 I–VI 像素复刻版合集",
+    "label": "1–6 合集",
+    "aliases": ["最終幻想 I–VI 像素復刻版合集", "最终幻想像素重制合集", "Final Fantasy Pixel Remaster Collection"]
+  },
+  "switch-K0001090400": {
+    "title": "最终幻想 水晶编年史 重制版",
+    "aliases": ["最終幻想 水晶編年史 重製版", "Final Fantasy Crystal Chronicles Remastered"]
+  },
+  "switch-K0001122396": {
+    "aliasesFrom": "switch2-K0001789762"
+  },
+  "switch-K0001122397": {
+    "title": "最终幻想 XII 黄道时代",
+    "aliases": ["最終幻想 XII 黃道時代", "最终幻想12黄道年代", "Final Fantasy XII The Zodiac Age"]
+  },
+  "switch-K0001472563": {
+    "title": "核心危机 最终幻想 VII 重聚",
+    "aliases": ["核心危機 最終幻想 VII 重聚", "最终幻想7核心危机", "Crisis Core Final Fantasy VII Reunion"]
+  },
+  "switch-VGC-232666": {
+    "aliasesFrom": "switch-K0001472563"
+  },
+  "switch-VGC-284787": {
+    "title": "最终幻想战略版 伊瓦利斯编年史 豪华版",
+    "label": "豪华版",
+    "aliases": ["最終幻想戰略版 伊瓦利斯編年史 豪華版", "最终幻想战略版", "Final Fantasy Tactics The Ivalice Chronicles Deluxe Edition"]
+  },
+  "switch-K0001634612": {
+    "title": "浪漫沙加 2 七英雄的复仇",
+    "aliases": ["復活邪神 2 七英雄的復仇", "浪漫沙加2", "Romancing SaGa 2 Revenge of the Seven"]
+  },
+  "switch-K0001711328": {
+    "title": "流星洛克人 完美收藏版",
+    "aliases": ["流星洛克人合集", "Mega Man Star Force Legacy Collection"]
+  },
+  "switch-K0001673663": {
+    "title": "传颂之物 虚伪的假面",
+    "aliases": ["受讚頌者 虛偽的假面", "傳頌之物 虛偽的假面", "Utawarerumono Mask of Deception"]
+  },
+  "switch-K0001673664": {
+    "title": "传颂之物 二人的白皇",
+    "aliases": ["受讚頌者 二人的白皇", "傳頌之物 二人的白皇", "Utawarerumono Mask of Truth"]
+  },
+  "switch-VGC-171428": {
+    "title": "AI 梦境档案",
+    "aliases": ["AI 夢境檔案", "AI The Somnium Files"]
+  },
+  "switch-K0001434544": {
+    "title": "AI 梦境档案 涅槃肇始",
+    "aliases": ["AI 夢境檔案 涅槃肇始", "AI梦境档案2", "AI The Somnium Files Nirvana Initiative"]
+  },
+  "switch-VGC-249348": {
+    "aliasesFrom": "switch-K0001434544"
+  },
+  "switch-K0001346092": {
+    "title": "月姬 A piece of blue glass moon",
+    "aliases": ["月姬重制版", "Tsukihime A Piece of Blue Glass Moon"]
+  },
+  "switch-K0000959187": {
+    "title": "Fate/EXTELLA",
+    "aliases": ["Fate Extella The Umbral Star"]
+  },
+  "switch-K0001098508": {
+    "title": "Fate/EXTELLA Best Collection",
+    "aliasesFrom": "switch-K0000959187",
+    "label": "Best Collection",
+    "aliases": ["Fate Extella 再版"]
+  },
+  "switch-K0001547132": {
+    "title": "Fate/Samurai Remnant",
+    "aliases": ["Fate 武士遗迹", "Fate Samurai Remnant"]
+  },
+  "switch-K0000935165": {
+    "title": "真女神转生 V",
+    "aliases": ["真・女神轉生 V", "真女神转生5", "Shin Megami Tensei V"]
+  },
+  "switch-CIBBY-19a8fa21": {
+    "aliasesFrom": "switch-K0000935165"
+  },
+  "switch-K0001277820": {
+    "title": "真女神转生 III NOCTURNE 高清重制版",
+    "aliases": ["真・女神轉生 III NOCTURNE HD REMASTER", "真女神转生3", "Shin Megami Tensei III Nocturne HD Remaster"]
+  },
+  "switch-K0001608200": {
+    "title": "真女神转生 V Vengeance",
+    "aliases": ["真・女神轉生 V Vengeance", "真女神转生5复仇", "Shin Megami Tensei V Vengeance"]
+  },
+  "switch-HAC-P-A25FA": {
+    "title": "忍者龙剑传 大师合集",
+    "aliases": ["忍者外傳 大師合輯", "忍龙大师合集", "Ninja Gaiden Master Collection"]
+  },
+  "switch-VGC-197106": {
+    "aliasesFrom": "switch-HAC-P-A25FA"
+  },
+  "switch-K0001705413": {
+    "title": "忍者龙剑传 怒之羁绊",
+    "aliases": ["忍者外傳 怒之羈絆", "忍者龙剑传怒之羁绊", "Ninja Gaiden Ragebound"]
+  },
+  "switch-VGC-284328": {
+    "aliasesFrom": "switch-K0001705413"
+  },
+  "switch-K0001519954": {
+    "title": "心渊梦境 豪华版",
+    "label": "豪华版",
+    "aliases": ["心淵夢境 豪華版", "心渊梦境", "Afterimage Deluxe Edition"]
+  },
+  "switch-VGC-272006": {
+    "title": "纪元 变异 完全版",
+    "label": "完全版",
+    "aliases": ["紀元 變異 完全版", "纪元变异", "Anno Mutationem Complete Edition"]
+  },
+  "switch-VGC-276741": {
+    "title": "忍者神龟 施莱德的复仇 终极版",
+    "label": "终极版",
+    "aliases": ["忍者龜 施萊德的復仇 終極版", "忍者神龟施莱德的复仇", "Teenage Mutant Ninja Turtles Shredder's Revenge Ultimate Edition"]
+  },
+  "switch-VGC-209642": {
+    "title": "风来之国",
+    "aliases": ["風來之國", "Eastward"]
+  },
+  "switch2-K0001792991": {
+    "title": "鬼灭之刃 火之神血风谭 2 无限城篇同捆版",
+    "aliasesFrom": "switch-K0001684628",
+    "label": "含无限城篇第一章角色通行证",
+    "aliases": ["鬼滅之刃 火之神血風譚 2 無限城篇同捆版", "鬼灭之刃火之神血风谭2", "鬼灭之刃火之神血风谭2DLC版"]
+  },
+  "switch2-K0001789219": {
+    "title": "鬼武者 剑之道",
+    "aliases": ["鬼武者 劍之道", "Onimusha Way of the Sword"]
+  },
+  "switch2-K0001789220": {
+    "title": "鬼武者 剑之道 豪华版",
+    "aliasesFrom": "switch2-K0001789219",
+    "label": "高级豪华版",
+    "aliases": ["鬼武者 劍之道 豪華版", "Onimusha Way of the Sword Premium Deluxe Edition"]
+  },
+  "switch2-K0001792576": {
+    "title": "苍蓝雷霆 枪伏特 三部曲",
+    "label": "三部曲",
+    "aliases": ["蒼藍雷霆 Gunvolt", "蒼藍雷霆 槍伏特 三部曲", "Azure Striker Gunvolt Trilogy Enhanced"]
+  },
+  "switch2-K0001772434": {
+    "title": "银白钢铁 X 1＋2 双重合集",
+    "label": "双重合集",
+    "aliases": ["銀白鋼鐵 X 1＋2 雙重合集", "银白钢铁X合集", "Gunvolt Chronicles Luminous Avenger iX Dual Collection"]
+  },
+  "switch2-K0001784166": {
+    "title": "星砂岛",
+    "aliases": ["星砂島", "Starsand Island"]
+  },
+  "switch-K0001684628": {
+    "title": "鬼灭之刃 火之神血风谭 2",
+    "aliases": ["鬼滅之刃 火之神血風譚 2", "鬼灭之刃火之神血风谭2", "Demon Slayer The Hinokami Chronicles 2"]
+  },
+  "switch-K0001610988": {
+    "title": "潜水员戴夫 周年纪念版",
+    "aliasesFrom": "switch2-K0001799047",
+    "label": "周年纪念版",
+    "aliases": ["潛水員戴夫 週年紀念版", "戴夫周年版", "Dave the Diver Anniversary Edition"]
+  },
+  "switch-K0001140275": {
+    "title": "刺客信条 III 重制版",
+    "aliases": ["刺客教條 III 重製版", "刺客信条3重制版", "Assassin's Creed III Remastered"]
+  },
+  "switch-K0001197864": {
+    "title": "刺客信条 叛逆者合集",
+    "label": "合集",
+    "aliases": ["刺客教條 逆命合輯", "刺客信条逆命合集", "Assassin's Creed The Rebel Collection"]
+  },
+  "switch-VGC-132417": {
+    "title": "马力欧＋疯狂兔子 王国之战",
+    "aliases": ["瑪利歐＋瘋狂兔子 王國之戰", "马里奥疯狂兔子王国之战", "Mario Rabbids Kingdom Battle"]
+  },
+  "switch-K0001446697": {
+    "title": "主播女孩重度依赖",
+    "aliases": ["主播女孩重度依賴", "主播女孩重度依赖游戏", "Needy Girl Overdose", "Needy Streamer Overload"]
+  },
+  "switch-HAC-P-A6G7A": {
+    "title": "星之海",
+    "aliases": ["Sea of Stars"]
+  },
+  "switch-VGC-255937": {
+    "aliasesFrom": "switch-HAC-P-A6G7A"
+  },
+  "switch-K0001292087": {
+    "title": "小小梦魇 2",
+    "aliases": ["小小夢魘 2", "小小梦魇II", "Little Nightmares II"]
+  },
+  "switch-VGC-186078": {
+    "aliasesFrom": "switch-K0001292087"
+  },
+  "switch-K0001466540": {
+    "title": "索尼克 未知边境",
+    "aliases": ["索尼克 未知邊境", "Sonic Frontiers"]
+  },
+  "switch-K0001474789": {
+    "title": "鸟类律师的事件簿",
+    "aliases": ["鳥類律師的事件簿", "飞禽律师之事件簿", "Aviary Attorney"]
+  },
+  "switch-K0001421291": {
+    "title": "太阁立志传 V DX",
+    "aliases": ["太閤立志傳 V DX", "太阁立志传5", "Taiko Risshiden V DX"]
+  },
+  "switch-K0001286792": {
+    "title": "超级马力欧 3D 收藏辑",
+    "label": "三作合集",
+    "aliases": ["超級瑪利歐 3D 收藏輯", "超级马里奥3D合集", "Super Mario 3D All-Stars"]
+  },
+  "switch-K0001547121": {
+    "title": "超级马力欧 RPG",
+    "aliases": ["超級瑪利歐 RPG", "超级马里奥RPG", "Super Mario RPG"]
+  },
+  "switch-VGC-253320": {
+    "aliasesFrom": "switch-K0001547121"
+  }
+}
