@@ -23,9 +23,15 @@
 
 记录保存在设备上。公开发布版本内置部分中文游戏名和别名，封面可从相册选择或拍摄。
 
+## 新增功能
+
+- **新增配件仓：**
+        现在，可以设置switch配件的购买记录了，无论是保护壳、收纳盒、手柄等都可以填写。
+  <img src="docs/screenshots/peijian.jpg" width="230" alt="收藏库新增的配件仓"> 
+
 ## 安装
 
-[直接下载安卓 APK（卡带盒 2.5）](https://github.com/mindworke/kadaihe/releases/download/v2.5/Kadaihe-2.5-github.apk)
+[直接下载安卓 APK（卡带盒 2.6.1）](https://github.com/mindworke/kadaihe/releases/download/v2.5/kadaihe-2.6.1.apk)
 
 需要 Android 8.0（API 26）或以上。更新签名一致的安装包时，可以直接覆盖安装。ZIP 备份可在「设置与备份」中导出。
 
