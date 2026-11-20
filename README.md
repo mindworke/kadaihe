@@ -24,6 +24,16 @@
 
 需要 Android 8.0（API 26）或以上。更新签名一致的安装包时，可以直接覆盖安装。ZIP 备份可在「设置与备份」中导出。
 
+## 日版封面下载与访问令牌
+
+GitHub 提供的 2.5 安装包默认使用本地中文游戏名联想，封面可以拍照或从相册选择。联网下载需要使用构建时已配置 HTTPS 封面站的安装包。
+
+1. 从封面站管理员处获取该站点的访问令牌。它相当于读取封面库的通行凭证。
+2. 打开 App 的「设置与备份」→「日版封面站」→「配置令牌」，粘贴令牌值并点「保存」。新增或编辑卡带时，也可以点「配置封面站令牌」。
+3. 输入或选择中文游戏名。只有一个明确匹配时会自动下载日版封面。出现多个候选时，可以按 Switch、Switch 2 或「游戏钥匙卡」选择。也可以手动点「查找日版封面」，或从相册更换。
+
+令牌通过 Android Keystore 在本机加密保存，仅在请求配置好的封面站时发送。令牌失效后，可以在「日版封面站」里重新粘贴或移除。找不到匹配或网络不可用时，仍可手动选图。
+
 ## 从源码构建
 
 在 Linux 中准备 JDK 17 或以上、Bash 4 或以上、`curl`、`zip` 和 Android SDK。通过 Android Studio 的 SDK Manager 安装 **Android SDK Platform 35** 和 **Android SDK Build-Tools 35.0.0**，然后把 SDK 目录设为 `ANDROID_SDK_ROOT`。
@@ -52,7 +62,13 @@ unset KADAIBOX_KEYSTORE_PASSWORD
 
 ### 可选的自建封面库
 
-维护自己的授权封面库时，可在构建前设置 `KADAIBOX_COVER_ORIGIN=https://covers.example.com`。构建后的应用会在「设置与备份」显示封面站配置，站点访问令牌在手机上配置并通过 Android Keystore 保护。
+使用自己的授权封面库时，把示例地址换成站点的 HTTPS 根地址，然后构建。
+
+```bash
+KADAIBOX_COVER_ORIGIN=https://covers.example.com bash build.sh
+```
+
+安装后按上面的步骤在手机上配置令牌。
 
 封面站提供 `/games.json` 和相对 PNG 路径。请求通过 `OAI-Sites-Authorization: Bearer <token>` 附带令牌。可用以下结构编写索引。
 
